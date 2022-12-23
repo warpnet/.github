@@ -1,3 +1,5 @@
+![Open Source at Warpnet](https://github.com/warpnet/.github/blob/main/images/banner-warpnet.jpg)
+
 ## Get Involved
 
 * [Explore featured projects](https://github.com/warpnet)
