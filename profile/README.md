@@ -1,4 +1,4 @@
-![Open Source at Warpnet](https://github.com/warpnet/.github/blob/main/images/banner-warpnet.jpg)
+![Open Source at Warpnet](https://github.com/warpnet/.github/blob/main/images/banner-warpnet.png)
 
 ## Get Involved
 
